@@ -1,0 +1,7 @@
+{ "name": "faye-comet-server",
+  "version": "1.0.0",
+  "dependencies": {
+    "faye": "0.8.9",
+    "convict": "0.1.0"
+  }
+}

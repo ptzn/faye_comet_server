@@ -1,0 +1,5 @@
+{ "port": 4443,
+  "secret_token": "PUTTOKENHERE",
+  "ssl_key": "PATHTOKEY",
+  "ssl_cert": "PATHTOCRT"
+}

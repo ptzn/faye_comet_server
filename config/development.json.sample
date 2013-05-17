@@ -1,0 +1,4 @@
+{ "port": 4242,
+  "secret_token": "PUTTOKENHERE",
+  "debug": true
+}
